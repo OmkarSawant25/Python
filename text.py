@@ -1,0 +1,1 @@
+print("Omkar dada loves mithai")
